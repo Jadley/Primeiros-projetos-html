@@ -1,2 +1,2 @@
-# Primeiros-projetos-html
-Curso intro ao html
+# Primeiros-projetos-html-css
+Curso primeiros passos html5 e css3
